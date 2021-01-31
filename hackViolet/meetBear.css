@@ -1,0 +1,25 @@
+*{
+    box-sizing:border-box;
+}
+
+
+body{
+    background-color:#ADC178;
+}
+section{
+    width:500px;
+    height:300px;
+    margin:auto;
+}
+section div{
+    padding:20px;
+}
+
+#arrow{
+    width:60px;
+    position: absolute;
+  right: 500px;
+  
+  
+  padding: 10px;
+}

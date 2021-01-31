@@ -1,0 +1,31 @@
+*{
+    box-sizing:border-box;
+}
+
+section{
+    width:500px;
+    height:500px;
+    margin:auto;
+    margin-top:300px;
+}
+
+button{
+    margin-bottom:20px;
+    width:200px;
+    height:50px;
+    border-radius:15px;
+}
+div {
+    margin-bottom:20px;
+}
+
+span{
+    color:#A98467;
+    margin-left:10px;
+}
+
+h5{
+    color:#C6AD9A;
+    padding:10px;
+    
+}
