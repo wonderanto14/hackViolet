@@ -1,0 +1,32 @@
+*{
+    box-sizing:border-box;
+}
+
+#options{
+    border:3px solid #6C584C;
+    width:300px;
+}
+
+#container{
+    background-color:#ADC178;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+ul{
+    display:flex;
+    list-style:none;
+    justify-content:flex;
+}
+
+#bigCont{
+    margin:auto;
+    
+    width:400px;
+}
+
+#top{
+    background-color:#F0EAD2;
+}
